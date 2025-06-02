@@ -42,7 +42,7 @@ try:
 except:
     pass
 
-# Directory setup
+# Directory Setup
 BASE_DIR = Path(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = BASE_DIR / "personality_data"
 MODELS_DIR = BASE_DIR / "personality_models"
