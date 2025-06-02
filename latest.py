@@ -25,7 +25,7 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 from textstat import flesch_reading_ease
 import spacy
 
-# Web and API
+# Web And API
 
 # Data processing
 from sklearn.feature_extraction.text import TfidfVectorizer
